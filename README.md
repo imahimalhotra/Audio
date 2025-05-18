@@ -1,3 +1,5 @@
+**Melodia – Audio Music App**
+
 A simple and elegant web-based music player built using HTML, CSS, and JavaScript. This application allows users to play, pause, skip tracks, and interact with a playlist of songs through a modern and responsive UI.
 
 🚀 Features
